@@ -1,3 +1,5 @@
+// Switch statements express conditionals across many branches.
+
 package main
 
 import (
