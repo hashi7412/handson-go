@@ -1,5 +1,6 @@
 # Hands-on Golang
 
+Are you new in Golang? 😏
 This repository is a hands-on introduction to Go using annotated example programs.
 
 1. [Hello World](https://github.com/Shinobi-Developer/Golang/blob/main/2-handson-go/1-hello.go)
@@ -82,3 +83,13 @@ This repository is a hands-on introduction to Go using annotated example program
 78. [Exec'ing Processes]()
 79. [Signals]()
 80. [Exit]()
+
+## Conclusion
+You studied basic syntax and examples in Golang with open-source
+
+Here is some repositories for your guide:
+
+- [CRUD with MySQL](https://github.com/hashi7412/crud-with-mysql)
+- [Token-based Authentication with MySQL](https://github.com/hashi7412/tokenbased-authentication)
+
+Thank you for looking at this repository. 👋
